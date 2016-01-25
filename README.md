@@ -1,0 +1,2 @@
+# SimpliSafeStatus
+SImpliSafe status script
